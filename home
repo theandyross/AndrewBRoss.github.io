@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://use.typekit.net/tnu8rsq.css">
+    <title>A Brief History</title>
+    <style>
+      @font-face {
+        font-family: 'Sunflower';
+        src: url('Sunflower-Bold.ttf') format('truetype');
+        font-weight: bold;
+        font-style: normal;
+      }
+      body {
+        font-family: 'Sunflower', sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>A Brief History</h1>
+    <img src="bird.jpg" alt="Small blue bird in flight" width="300">
+    <p>The book combines affect, environmental, and visual theories to documents a shift from worries about human benefits to a willingness to feel for and with non-human animals. It offers new interpretations for how animals and humans observe each other in American scientific culture, uncovering how such a culture distributed agency in complex aesthetic ways.</p>
+    <p>My next project concerns the aesthetics of infrastructure, including what I'm calling "soft" or alternative infrastructures oriented around equality, care, and sense of place.</p>
+    <p>I teach place-based interdisciplinary courses in environmental humanities, including environmental literature and science writing classes. Across several departments, my teaching encourages students to see the civic value of the arts, and to advocate for the community application of their research and writing.</p>
+  </body>
+</html>
